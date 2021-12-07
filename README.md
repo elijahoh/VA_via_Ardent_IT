@@ -1,4 +1,4 @@
-# Vulnerability Assessment via [Ardent IT Pte. Ltd.](https://ardentit.com.sg/)
+# Vulnerability Assessment
 November 2021
 
 The vulnerability assessment was conducted using a combination of automated and manual scan to detect any security flaws on the organisation's website hosting server and it's remote intranet firewall access. 
