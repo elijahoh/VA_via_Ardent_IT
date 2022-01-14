@@ -1,5 +1,5 @@
 # Vulnerability Assessment
-📔 [Vulnerability Assessment Report](https://github.com/elijahoh/Vulnerability_Assessment/blob/main/Vulnerability%20Assessment%20Project.pdf)
+📔 [Vulnerability Assessment Report](https://github.com/elijahoh/Vulnerability_Assessment/blob/main/Vulnerability%20Assessment%20Project.pdf)<br/>
 November 2021
 
 The vulnerability assessment was conducted using a combination of automated and manual scan to detect any security flaws on the organisation's website hosting server and it's remote intranet firewall access. 
